@@ -1,3 +1,4 @@
 I am in a new branch which called dev.
 I have went back to branch master.
 I create a new branch feature1.
+I want see git color.
